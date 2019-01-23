@@ -9,7 +9,7 @@ This is a .Net Core Web API implemented for Movies and rate the movies. It uses 
 ## Installation
 This repo has 2 folders:
 - __Database__: that has 3 scripts that need to be executed in order.
-- __MovieApi__: is the Web API solution with a folder for the API, another one for the Model and another one for the Data Access Leyer. In addition there are Unit test projects.
+- __MovieApi__: is the Web API solution with a folder for the API, another one for the Model and another one for the Data Access Layer. In addition, there are Unit test projects.
 
 After downloading this repo and unzip it, please follow the next instructions to configure everything.
 
