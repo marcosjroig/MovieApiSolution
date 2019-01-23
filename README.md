@@ -20,8 +20,7 @@ After downloading this repo and unzip it, please follow the next instructions to
 ### Web Api
 1) Open the solution of the folder __"MovieApi"__ with VS2017 or VS Code 
 2) Change the property __"MovieDbContext"__ of the file __"appsettings.json"__ to set your SQL Server name and your credentials as well, in my case I am using Windows authentication
-3) Ensure the file __launchSettings.json__ is pointing to this URL http://localhost:5000/ as the Web project is looking at this URL to access to the DB.
-4) Compile the solution and press F5 to run the API
-5) Now you are ready to start playing with it and run unit testing
+3) Compile the solution and press F5 to run the API
+4) Now you are ready to start playing with it and run unit testing
 
 
